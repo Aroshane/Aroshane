@@ -1,28 +1,18 @@
 <!-- HERO BANNER -->
-<div align="center">
-  <h1>👋 Hi, I'm Aromal A Kurup</h1>
-  <p><em>ECE Student | Embedded Systems & IoT Enthusiast</em></p>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aromal%20A%20Kurup&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Student%20%7C%20Embedded%20Systems%20%26amp%3B%20IoT%20Enthusiast&descAlignY=62&descSize=16" alt="banner"/>
 
+---
 
-
+<!-- PROFILE VIEWS + SOCIAL BADGES -->
 <p align="center">
-  <a href="https://linkedin.com/in/aromal-a-kurup">
-    <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/aromal-a-kurup-44949931b/?originalSubdomain=in">
+    <img src="https://img.shields.io/badge/LinkedIn-aromal--a--kurup-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:aromalakurup2028@ec.ajce.in">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-aromalakurup2028%40ec.ajce.in-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/aromalakurup">
-    <img src="https://img.shields.io/badge/%F0%9F%90%99%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Aroshane&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views"/>
 </p>
-<p align="center">
-  <em>"Build things that solve real problems. 🔧"</em>
-</p>
-
 
 ---
 
@@ -44,7 +34,7 @@ class AromalAKurup:
         self.degree     = "B.Tech – Electronics & Communication Engg."
         self.college    = "Amal Jyothi College of Engineering"
         self.cgpa       = 8.7
-        self.year       = "2nd Year (2023 – 2027)"
+        self.year       = "3rd Year (2023 – 2027)"
 
         self.stack = [
             "Embedded C", "C++", "Python",
@@ -59,7 +49,8 @@ class AromalAKurup:
             "Defence Drone Technology 🛸"
         ]
 
-        self.fun_fact = "I once programmed a robot to feed fish 🐟"
+        self.fun_fact = "I once programmed a robot to feed fish 🐟 & advanced kitchen monitoring system"
+        
 
     def motto(self):
         return "Build things that solve real problems. 🔧"
@@ -76,10 +67,6 @@ print(me.motto())
 ## 🛠️ Tech Stack
 
 **Languages**
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Tools & Platforms**
 
@@ -145,7 +132,7 @@ print(me.motto())
 
 ---
 
-<!-- WORK EXPERIENCE / ACTIVITIES -->
+<!-- WORK EXPERIENCE -->
 ## 💼 Experience & Activities
 
 <details>
@@ -181,8 +168,8 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| 🐟 **Automated Fish Feeder** | Arduino Nano · Servo Motor · Embedded C · Timer Circuit | Fully automated, timer-driven fish feeding system. Eliminated manual feeding via scheduled servo actuation. Reliable, time-programmed cycles with zero human intervention needed. |
-| 🍳 **Advanced Kitchen Monitoring System** | ESP32 · Blynk IoT · Gas Sensor · Temperature Sensor | Real-time remote kitchen safety monitoring. Gas leakage & temperature alerts pushed to mobile app. Cloud-based dashboard with wireless data transmission over Wi-Fi. |
+| 🐟 **Automated Fish Feeder** | Arduino Nano · Servo Motor · Embedded C · Timer Circuit | Fully automated, timer-driven fish feeding system. Eliminated manual feeding via scheduled servo actuation. |
+| 🍳 **Advanced Kitchen Monitoring System** | ESP32 · Blynk IoT · Gas Sensor · Temperature Sensor | Real-time remote kitchen safety monitoring. Gas leakage & temperature alerts pushed to mobile app. |
 
 </div>
 
@@ -195,11 +182,11 @@ print(me.motto())
 
 | 🏆 | Achievement | Details |
 |:--:|:-----------:|:-------:|
-| 🛸 | **Defence Drone Technology Workshop** | Associated with ISRO & I-STEM Initiative — Aerospace & drone integration |
-| 📐 | **MATLAB Onramp** | Official MathWorks certification — Signal processing & simulation |
-| 🤖 | **Machine Learning Specialization** | Completed ML certificate course — Supervised & unsupervised learning |
-| 💼 | **Resume Writing & Job Interviewing** | HP LIFE Online Course — HP Foundation certified |
-| 🎓 | **Academic Excellence** | CGPA: **8.7 / 10** at Amal Jyothi College of Engineering (up to S3) |
+| 🛸 | **Defence Drone Technology Workshop** | Associated with ISRO & I-STEM Initiative |
+| 📐 | **MATLAB Onramp** | Official MathWorks certification |
+| 🤖 | **Machine Learning Specialization** | Supervised & unsupervised learning |
+| 💼 | **Resume Writing & Job Interviewing** | HP LIFE Online Course — HP Foundation |
+| 🎓 | **Academic Excellence** | CGPA: **8.7 / 10** at Amal Jyothi College of Engineering |
 
 </div>
 
@@ -231,7 +218,7 @@ print(me.motto())
 
 ---
 
-<!-- CONNECT SECTION -->
+<!-- CONNECT -->
 ## 📬 Let's Connect!
 
 <p align="center">
