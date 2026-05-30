@@ -1,18 +1,28 @@
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aromal%20A%20Kurup&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Student%20%7C%20Embedded%20Systems%20%26%20IoT%20Enthusiast&descAlignY=62&descSize=16" alt="banner"/>
+<div align="center">
+  <h1>👋 Hi, I'm Aromal A Kurup</h1>
+  <p><em>ECE Student | Embedded Systems & IoT Enthusiast</em></p>
+</div>
 
----
 
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
+
 <p align="center">
   <a href="https://linkedin.com/in/aromal-a-kurup">
-    <img src="https://img.shields.io/badge/LinkedIn-aromal--a--kurup-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:aromalakurup2028@ec.ajce.in">
-    <img src="https://img.shields.io/badge/Email-aromalakurup2028%40ec.ajce.in-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=aromalakurup&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views"/>
+  &nbsp;
+  <a href="https://github.com/aromalakurup">
+    <img src="https://img.shields.io/badge/%F0%9F%90%99%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+<p align="center">
+  <em>"Build things that solve real problems. 🔧"</em>
+</p>
+
 
 ---
 
@@ -98,11 +108,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/aromalakurup">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=aromalakurup&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <a href="https://github.com/Aroshane">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aroshane&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/aromalakurup">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalakurup&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <a href="https://github.com/Aroshane">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aroshane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -112,7 +122,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aromalakurup&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Aroshane&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="Streak Stats"/>
 </div>
 
 ---
@@ -121,7 +131,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aromalakurup&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aroshane&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -130,7 +140,7 @@ print(me.motto())
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aromalakurup&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aroshane&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
