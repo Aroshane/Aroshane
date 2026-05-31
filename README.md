@@ -1,7 +1,6 @@
 <!-- HERO BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aromal%20A%20Kurup&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Student%20%7C%20Embedded%20Systems%20%26amp%3B%20IoT%20Enthusiast&descAlignY=62&descSize=16" alt="banner"/>
 
----
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 <p align="center">
