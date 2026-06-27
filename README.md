@@ -75,6 +75,7 @@ print(me.motto())
 ![Blynk](https://img.shields.io/badge/Blynk%20IoT-23C48E?style=flat-square&logo=blynk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-65C2F5?style=flat-square&logo=espressif&logoColor=white)
 
 **Hardware**
 
